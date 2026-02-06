@@ -2,8 +2,8 @@
 
 **Undo Save Marker** is a simple Blender addon that injects a visual marker into the native Undo History whenever you save your file.
 
-![Undo History Example](https://via.placeholder.com/600x400?text=Undo+History+Save+Marker) 
-*(Screenshot placeholder - visualize a list with ">>> FILE SAVED <<<" entries)*
+<img width="1494" height="996" alt="image" src="https://github.com/user-attachments/assets/906ee8ce-4c11-4cea-af93-38369dbadb8d" />
+
 
 ## Features
 
